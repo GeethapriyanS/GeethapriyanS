@@ -3,14 +3,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=geethapriyans&theme=radical&margin-w=15&margin-h=15" alt="geethapriyans" />
-  </a>
-</p>
-
----
-
 ### 🌐 Connect with Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/geethapriyan-s-a798442a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -51,6 +43,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=geethapriyans&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geethapriyans&show_icons=true&layout=compact&theme=radical" alt="langs" />
+</p>
+
+
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=geethapriyans&theme=radical&margin-w=15&margin-h=15" alt="geethapriyans" />
+  </a>
 </p>
 
 ---
